@@ -2,11 +2,11 @@
 
 void mostrarMayor(int x, int y);
 
-
+// Hola
 int main(){
-    
+
     mostrarMayor(1,2);
-    
+
     return 0;
 }
 
@@ -23,5 +23,9 @@ void mostrarMayor(int x, int y)
             printf("Son iguales");
     }
 }
+<<<<<<< HEAD
 
-//prueba de commit LichaDev
+=======
+>>>>>>> a6e5796ccaf0e671697a59e64c372311ce24cd09
+
+//prueba de comentario 

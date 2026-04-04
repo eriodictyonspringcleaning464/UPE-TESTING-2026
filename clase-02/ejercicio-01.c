@@ -10,7 +10,7 @@ C (70-79)
 D (60-69)
 F (0-59)
 */
-
+// determinar_calificacion -> python
 char determinarCalificacion(int puntaje)
 {
     char nota;
