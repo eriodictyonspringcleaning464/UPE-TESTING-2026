@@ -23,3 +23,5 @@ void mostrarMayor(int x, int y)
             printf("Son iguales");
     }
 }
+
+//prueba de commit LichaDev
