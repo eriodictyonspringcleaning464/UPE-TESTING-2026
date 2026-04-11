@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int SumaParesPositivos(int a, int b);
+int SumaParesPositivos(int , int );
 
 int main(){
     
