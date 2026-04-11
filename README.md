@@ -5,3 +5,4 @@
 ## Alumnos: 
 - Leonel Rosso
 - Bravo Lautaro
+- Gomez Ornella Jeanette
